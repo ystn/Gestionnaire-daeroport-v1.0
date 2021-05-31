@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1622363805 source:c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\aeroport.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	"aeroport.h"
+
+1622318846 c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\aeroport.h
+
+1621449099 source:c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\liste.c
+
+1622471814 source:c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\main.c
+	"main.h"
+
+1622374325 c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\main.h
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<commctrl.h>
+	<math.h>
+	"aeroport.h"
+	"resource.h"
+
+1479733224 c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\simplegrid.h
+
+1622141546 c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\affichage.h
+
+1622307899 c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\resource.h
+
+1622308445 source:c:\users\yq\documents\projects\coding projects\projects\c projects\gestion d'aeroport\resource.rc
+	"resource.h"
+
